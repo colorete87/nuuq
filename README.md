@@ -1,2 +1,2 @@
-# nuuq
+# NUUQ
 Non-Uniform Uniform Quantization
